@@ -34,6 +34,15 @@ A549 | H3K27me3.bam | H3K27me3  | wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep
 ### Transition
 ![](/data/transitions_10.png)
 
+## Гистоновые модификации
+
+По этим графикам для каждого из типов можно предположить характерную гистоновую модификацию
+
+![](/data/graph.png)
+
+![](/data/graph2.png)
+
+![](/data/graph3.png)
 
 ## Список команд см. в colab
 
