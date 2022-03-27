@@ -1,6 +1,6 @@
 # Домашнее задание 2.3 по БиоИнформатике (2 год)
 
-![Colab тетрадка](https://colab.research.google.com/drive/1MswHuv45z_HzwXJzdwDs1ZU4T3NSL61p?usp=sharing)
+[Colab тетрадка](https://colab.research.google.com/drive/1MswHuv45z_HzwXJzdwDs1ZU4T3NSL61p?usp=sharing)
 
 ## Информация о данных 
 
@@ -37,6 +37,8 @@ A549 | H3K27me3.bam | H3K27me3  | wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep
 ## Гистоновые модификации
 
 По этим графикам для каждого из типов можно предположить характерную гистоновую модификацию
+
+Например, для state 10 можно отметить H3K27ac и H3K4me2. А для state 3 - H3K9me3.
 
 ![](/data/graph.png)
 
