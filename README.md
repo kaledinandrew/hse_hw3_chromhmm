@@ -46,3 +46,4 @@ A549 | H3K27me3.bam | H3K27me3  | wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep
 
 ## Список команд см. в colab
 
+## Бонус см. в colab
